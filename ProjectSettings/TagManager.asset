@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - CinemachineTarget
+  - Ignite
+  - LevelCamera
   layers:
   - Default
   - TransparentFX
@@ -13,8 +16,8 @@ TagManager:
   - UI
   - Portal_Window
   - Portal_Content
-  - 
-  - 
+  - Level_Cover
+  - Level
   - 
   - 
   - 

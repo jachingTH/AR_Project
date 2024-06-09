@@ -54,10 +54,10 @@ public class csPlaceOnIndicator : MonoBehaviour
             {
                 placementIndicator.SetActive(true);
             }
-            /*else if (!spawnedObject.activeInHierarchy)
+            else if (spawnedObject.activeInHierarchy)
             {
                 placementIndicator.SetActive(false);
-            }*/
+            }
         }
 
         //Plane을 생성하지 못할 때 ARIndicator를 나타나지 않게 한다.
