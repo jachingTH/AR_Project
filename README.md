@@ -1,6 +1,8 @@
 # AR_Project
 증강현실 프로그래밍 AR 게임 제작
 
+핸드폰으로 주변 환경 인식 후 포탈 생성하여 게임 플레이
+
 6/9 5:36
 - 포탈 생성 후 레벨 보이기
   Main Camera & Level Camera 생성
